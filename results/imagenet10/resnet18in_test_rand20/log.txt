@@ -1,0 +1,7 @@
+Save dir: ./results/imagenet10/resnet18in_test_rand20
+ImageNet directory: ./DistilledDataset/ImageWoof/IPC20/1.0_0.1_1.0_1.0
+Repeat: 1/1
+=> creating model resnet-18, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 47.4 0.0

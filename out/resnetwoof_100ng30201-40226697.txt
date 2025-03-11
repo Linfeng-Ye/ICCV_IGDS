@@ -1,0 +1,19 @@
+created virtual environment CPython3.10.13.final.0-64 in 598ms
+  creator CPython3Posix(dest=/localscratch/deponce.40226697.0/env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/deponce/.local/share/virtualenv)
+    added seed packages: pip==23.2.1, setuptools==68.0.0, wheel==0.42.0+computecanada
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Save dir: ./results/imagenet10/resnet18in_test_rand100
+ImageNet directory: ./DistilledDataset/ImageWoof/IPC100/1.0_0.1_1.0_0.5
+Dataset with basic imagenet augmentation and RRC
+# examples in the smallest class:  112
+Subclass is extracted: 
+ #class:  10
+ #train:  1000
+  => subsample (random ipc 100)
+ #valid:  3929
+Repeat: 1/1
+=> creating model resnet-18, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 70.7 0.0

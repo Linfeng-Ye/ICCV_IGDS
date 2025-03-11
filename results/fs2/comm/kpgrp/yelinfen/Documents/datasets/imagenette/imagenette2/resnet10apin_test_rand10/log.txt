@@ -1,0 +1,2 @@
+Save dir: ./results//fs2/comm/kpgrp/yelinfen/Documents/datasets/imagenette/imagenette2/resnet10apin_test_rand10
+ImageNet directory: /fs2/comm/kpgrp/yelinfen/Documents/InfoBtnk_DD/MinimaxDiffusion-main/DistilledDataset/ImageNette/resnet101_0.1_0.1_0.01_0.05/Proto1.0_Contxt0.0/ipc_10

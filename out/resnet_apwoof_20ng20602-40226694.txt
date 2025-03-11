@@ -1,0 +1,61 @@
+created virtual environment CPython3.10.13.final.0-64 in 1174ms
+  creator CPython3Posix(dest=/localscratch/deponce.40226694.0/env, clear=False, no_vcs_ignore=False, global=False)
+  seeder FromAppData(download=False, pip=bundle, setuptools=bundle, wheel=bundle, via=copy, app_data_dir=/home/deponce/.local/share/virtualenv)
+    added seed packages: pip==23.2.1, setuptools==68.0.0, wheel==0.42.0+computecanada
+  activators BashActivator,CShellActivator,FishActivator,NushellActivator,PowerShellActivator,PythonActivator
+Save dir: ./results/imagenet10/resnet10apin_test_rand20
+ImageNet directory: ./DistilledDataset/ImageWoof/IPC20/1.0_0.1_1.0_0.05
+Dataset with basic imagenet augmentation and RRC
+# examples in the smallest class:  22
+Subclass is extracted: 
+ #class:  10
+ #train:  200
+  => subsample (random ipc 20)
+ #valid:  3929
+Repeat: 1/1
+=> creating model resnet_ap-10, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 53.1 0.0
+Save dir: ./results/imagenet10/resnet10apin_test_rand20
+ImageNet directory: ./DistilledDataset/ImageWoof/IPC20/1.0_0.1_1.0_0.1
+Dataset with basic imagenet augmentation and RRC
+# examples in the smallest class:  21
+Subclass is extracted: 
+ #class:  10
+ #train:  200
+  => subsample (random ipc 20)
+ #valid:  3929
+Repeat: 1/1
+=> creating model resnet_ap-10, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 54.1 0.0
+Save dir: ./results/imagenet10/resnet10apin_test_rand20
+ImageNet directory: ./DistilledDataset/ImageWoof/IPC20/1.0_0.1_1.0_0.5
+Dataset with basic imagenet augmentation and RRC
+# examples in the smallest class:  22
+Subclass is extracted: 
+ #class:  10
+ #train:  200
+  => subsample (random ipc 20)
+ #valid:  3929
+Repeat: 1/1
+=> creating model resnet_ap-10, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 49.4 0.0
+Save dir: ./results/imagenet10/resnet10apin_test_rand20
+ImageNet directory: ./DistilledDataset/ImageWoof/IPC20/1.0_0.1_1.0_1.0
+Dataset with basic imagenet augmentation and RRC
+# examples in the smallest class:  24
+Subclass is extracted: 
+ #class:  10
+ #train:  200
+  => subsample (random ipc 20)
+ #valid:  3929
+Repeat: 1/1
+=> creating model resnet_ap-10, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 52.8 0.0

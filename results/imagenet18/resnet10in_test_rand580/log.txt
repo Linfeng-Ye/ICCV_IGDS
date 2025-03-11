@@ -1,0 +1,2 @@
+Save dir: ./results/imagenet18/resnet10in_test_rand580
+ImageNet directory: /fs2/comm/kpgrp/yelinfen/Documents/datasets/imagewoof/imagewoof2/

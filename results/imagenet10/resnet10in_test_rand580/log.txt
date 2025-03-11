@@ -1,0 +1,5 @@
+Save dir: ./results/imagenet10/resnet10in_test_rand580
+ImageNet directory: /fs2/comm/kpgrp/yelinfen/Documents/datasets/imagewoof/imagewoof2/
+Repeat: 1/1
+=> creating model resnet-10, norm: instance
+Start training with base augmentation and cut mixup

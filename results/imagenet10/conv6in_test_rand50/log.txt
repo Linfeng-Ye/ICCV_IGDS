@@ -1,0 +1,2 @@
+Save dir: ./results/imagenet10/conv6in_test_rand50
+ImageNet directory: /fs2/comm/kpgrp/yelinfen/Documents/InfoBtnk_DD/MinimaxDiffusion-main/DistilledDataset/ImageWoof/IPC50/1.0_0.1_1.0_0.5

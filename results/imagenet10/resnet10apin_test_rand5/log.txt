@@ -1,0 +1,7 @@
+Save dir: ./results/imagenet10/resnet10apin_test_rand5
+ImageNet directory: /fs2/comm/kpgrp/yelinfen/Documents/InfoBtnk_DD/MinimaxDiffusion-main/DistilledDataset/ImageWoof/IPC50/1.0_0.1_1.0_0.5
+Repeat: 1/1
+=> creating model resnet_ap-10, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 30.4 0.0

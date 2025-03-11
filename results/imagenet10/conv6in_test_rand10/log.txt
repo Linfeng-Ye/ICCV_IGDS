@@ -1,0 +1,7 @@
+Save dir: ./results/imagenet10/conv6in_test_rand10
+ImageNet directory: /fs2/comm/kpgrp/yelinfen/Documents/InfoBtnk_DD/MinimaxDiffusion-main/DistilledDataset/ImageWoof/IPC50/1.0_0.1_1.0_0.5
+Repeat: 1/1
+=> creating model convnet-6, norm: instance
+Start training with base augmentation and cut mixup
+
+(Repeat 1) Best, last acc: 10.8 0.0
